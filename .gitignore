@@ -1,0 +1,6 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+dj12djdjs_erpnext_customizations/docs/current
